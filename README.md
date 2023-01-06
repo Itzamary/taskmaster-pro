@@ -1,12 +1,22 @@
 # taskmaster-pro
 
-## Purpose
-In this website a user us able to add tasks to a to do section,in progress section, a in review section and a done section initialy when a user adds a task it promts the user to add a task description and it also has a box for the user to pick a date. the date can only be in the future. the user can edit the date or the task description by simply clicking on the text or date itself
+## Description
+This is a task management application designed so that users can add new tasks, update, and delete finished tasks. This projects is helpful at keeping up with daily responsibilities.
 
-## Built With 
+## How to Use
+In this website a user is able to work with a task management application. Each time a user adds a task they are prompted for a description and future date. The user can edit the date or the description by simply clicking on the text or date itself. The user can also drag and drop a task to the other areas of progress or delete it at the bottom of the screen.
+
+## Technologies / APIs 
 * HTML5
 * CSS3
 * Javascript
+* moment.js
+* Bootstrap
+* JQuery
+
+## Future features
+In the future there will be functionality for web download so this can be used as a mobile app.
+
 
 ## Website Link
 https://itzamary.github.io/taskmaster-pro/
